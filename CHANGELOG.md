@@ -16,6 +16,39 @@
 
 ---
 
+## [0.0.3] - 2026-03-17
+
+### Added
+- ✅ Git репозиторий создан и настроен
+- ✅ Первый коммит в репозиторий
+- ✅ Код загружен на GitHub: https://github.com/moygorodonline-png/mortgage-calc-saas
+- 📋 session_003.md - заметки третьей сессии (setup инструментов)
+
+### Changed
+- 📊 Обновлён PROGRESS.md - отмечен setup как завершённый (2/270 hours)
+- 🤖 Обновлён CLAUDE.md - текущий статус после Session 003
+
+### Technical
+- VS Code установлен и настроен
+- Git 2.53.0 установлен
+- Git Bash настроен как основной терминал в VS Code
+- Git config настроен (user.name, user.email)
+- GitHub Personal Access Token создан для push
+
+### Context
+- Третья сессия: установка инструментов и создание Git репозитория
+- Обучение работе с VS Code и терминалом
+- Разобрались с Git Bash vs PowerShell
+- Настроен workflow: локальная работа → Git → GitHub
+
+### Decisions
+- ✅ Git Bash вместо PowerShell (лучше совместимость)
+- ✅ Personal Access Token для GitHub (вместо OAuth через браузер)
+- ✅ Правая кнопка мыши для вставки в терминал
+- ✅ Claude Code установим позже (когда начнём писать код)
+
+---
+
 ## [0.0.2] - 2025-01-28
 
 ### Added
@@ -106,5 +139,7 @@
 
 ---
 
-[Unreleased]: https://github.com/username/mortgage-calc-saas/compare/v0.0.1...HEAD
-[0.0.1]: https://github.com/username/mortgage-calc-saas/releases/tag/v0.0.1
+[Unreleased]: https://github.com/moygorodonline-png/mortgage-calc-saas/compare/v0.0.3...HEAD
+[0.0.3]: https://github.com/moygorodonline-png/mortgage-calc-saas/releases/tag/v0.0.3
+[0.0.2]: https://github.com/moygorodonline-png/mortgage-calc-saas/releases/tag/v0.0.2
+[0.0.1]: https://github.com/moygorodonline-png/mortgage-calc-saas/releases/tag/v0.0.1
