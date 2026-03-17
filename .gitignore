@@ -1,0 +1,50 @@
+# Laravel & PHP
+/vendor/
+/node_modules/
+/public/hot
+/public/storage
+/storage/*.key
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+laravel.log
+
+# Compiled files
+/public/build/
+/public/mix-manifest.json
+
+# Testing
+/coverage/
+.phpunit.cache
+
+# Temporary files
+*.tmp
+*.temp
+.cache
+
+# Session files
+/sessions/*.md.bak
+
+# Local config (если будут)
+config.local.php
