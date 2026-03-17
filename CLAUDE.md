@@ -4,7 +4,8 @@
 **Type:** SaaS Lead Generation Tool  
 **Owner:** Евгений Петров  
 **Started:** 28.01.2025  
-**Repository:** https://github.com/moygorodonline-png/mortgage-calc-saas
+**Repository:** https://github.com/moygorodonline-png/mortgage-calc-saas  
+**Domain:** lead-calculator.ru
 
 ---
 

@@ -36,9 +36,9 @@
     - GitHub репозиторий создан
     - Первый push выполнен
   
-- [ ] **1.1.1** Выбрать и купить домен для сервиса (0/2h)
-  - **Status:** ⏳ Not Started
-  - **Assigned:** Session 004
+- [x] **1.1.1** Выбрать и купить домен для сервиса (2/2h)
+  - **Status:** 🎉 Completed (Session 004)
+  - **Domain:** lead-calculator.ru
   
 - [ ] **1.1.2** Настроить VPS на Бегете (0/3h)
   - **Status:** ⏳ Not Started
