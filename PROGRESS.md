@@ -11,7 +11,7 @@
 
 | Phase | Status | Hours Spent | Total Hours | Progress |
 |-------|--------|-------------|-------------|----------|
-| **Этап 1:** Backend + Виджет | 🔄 In Progress | 2 | 90 | █░░░░░░░░░ 2% |
+| **Этап 1:** Backend + Виджет | 🔄 In Progress | 7 | 90 | █░░░░░░░░░ 8% |
 | **Этап 2:** Лендинг + ЛК | ⏳ Not Started | 0 | 100 | ░░░░░░░░░░ 0% |
 | **Этап 3:** Кейс и тестирование | ⏳ Not Started | 0 | 25 | ░░░░░░░░░░ 0% |
 | **Этап 4:** Продажи | ⏳ Not Started | 0 | 55 | ░░░░░░░░░░ 0% |
@@ -40,8 +40,13 @@
   - **Status:** 🎉 Completed (Session 004)
   - **Domain:** lead-calculator.ru
   
-- [ ] **1.1.2** Настроить VPS на Бегете (0/3h)
-  - **Status:** ⏳ Not Started
+- [x] **1.1.2** Настроить VPS на Бегете (3/3h)
+  - **Status:** 🎉 Completed (Session 004)
+  - **IP:** 45.144.178.31
+  - **OS:** Ubuntu 24.04
+  - **Stack:** Nginx 1.24, MySQL 8.0, PHP 8.3, Composer 2.9.5
+  - **DB:** mortgage_calc / user: mortgage
+  - **SSL:** Let's Encrypt ✅ (https://lead-calculator.ru)
   
 - [x] **1.1.3** Создать репозиторий проекта (0/1h)
   - **Status:** 🎉 Completed (Session 003)
