@@ -1,7 +1,7 @@
 # 📊 Project Progress Tracker
 
 **Project:** Mortgage Calculator SaaS  
-**Last Updated:** 17.03.2026  
+**Last Updated:** 20.03.2026  
 **Current Phase:** Этап 1 - Backend + Demo Widget  
 **Overall Progress:** 2/270 hours (0.7%)
 
@@ -11,7 +11,7 @@
 
 | Phase | Status | Hours Spent | Total Hours | Progress |
 |-------|--------|-------------|-------------|----------|
-| **Этап 1:** Backend + Виджет | 🔄 In Progress | 27 | 90 | ██░░░░░░░░ 30% |
+| **Этап 1:** Backend + Виджет | 🔄 In Progress | 31 | 90 | ███░░░░░░░ 34% |
 | **Этап 2:** Лендинг + ЛК | ⏳ Not Started | 0 | 100 | ░░░░░░░░░░ 0% |
 | **Этап 3:** Кейс и тестирование | ⏳ Not Started | 0 | 25 | ░░░░░░░░░░ 0% |
 | **Этап 4:** Продажи | ⏳ Not Started | 0 | 55 | ░░░░░░░░░░ 0% |
@@ -85,8 +85,12 @@
   - Кеширование 1 час
   - Тестовый ключ: lc_TDqtRD03LrYo55LgjNi7lxihB1gtJFC8NcQigqoO
   
-- [ ] **1.3.2** API: Расчёт ипотеки - POST /api/v1/calculate (0/4h)
-  - **Status:** ⏳ Not Started
+- [x] **1.3.2** API: Расчёт ипотеки - POST /api/v1/calculate (4/4h)
+  - **Status:** 🎉 Completed (Session 005)
+  - Эндпоинт работает: POST /api/v1/calculate
+  - Расчёт по 3 программам (base/family/it)
+  - Сортировка банков по платежу
+  - Валидация входных данных
   
 - [ ] **1.3.3** API: Приём лидов - POST /api/v1/leads (0/6h)
   - **Status:** ⏳ Not Started
