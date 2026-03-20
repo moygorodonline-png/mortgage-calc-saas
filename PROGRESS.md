@@ -11,7 +11,7 @@
 
 | Phase | Status | Hours Spent | Total Hours | Progress |
 |-------|--------|-------------|-------------|----------|
-| **Этап 1:** Backend + Виджет | 🔄 In Progress | 17 | 90 | █░░░░░░░░░ 19% |
+| **Этап 1:** Backend + Виджет | 🔄 In Progress | 21 | 90 | ██░░░░░░░░ 23% |
 | **Этап 2:** Лендинг + ЛК | ⏳ Not Started | 0 | 100 | ░░░░░░░░░░ 0% |
 | **Этап 3:** Кейс и тестирование | ⏳ Not Started | 0 | 25 | ░░░░░░░░░░ 0% |
 | **Этап 4:** Продажи | ⏳ Not Started | 0 | 55 | ░░░░░░░░░░ 0% |
@@ -70,8 +70,11 @@
   - Таблицы: clients, projects, banks, leads, api_keys
   - Миграции выполнены на сервере
   
-- [ ] **1.2.3** Настроить аутентификацию API (API keys) (0/4h)
-  - **Status:** ⏳ Not Started
+- [x] **1.2.3** Настроить аутентификацию API (API keys) (4/4h)
+  - **Status:** 🎉 Completed (Session 004)
+  - Middleware ValidateApiKey создан
+  - Модели: Client, Project, Bank, Lead, ApiKey
+  - Middleware зарегистрирован как api.key
 
 #### 1.3 Backend: API (0/16 hours)
 
