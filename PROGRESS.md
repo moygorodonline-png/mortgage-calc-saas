@@ -11,7 +11,7 @@
 
 | Phase | Status | Hours Spent | Total Hours | Progress |
 |-------|--------|-------------|-------------|----------|
-| **Этап 1:** Backend + Виджет | 🔄 In Progress | 21 | 90 | ██░░░░░░░░ 23% |
+| **Этап 1:** Backend + Виджет | 🔄 In Progress | 27 | 90 | ██░░░░░░░░ 30% |
 | **Этап 2:** Лендинг + ЛК | ⏳ Not Started | 0 | 100 | ░░░░░░░░░░ 0% |
 | **Этап 3:** Кейс и тестирование | ⏳ Not Started | 0 | 25 | ░░░░░░░░░░ 0% |
 | **Этап 4:** Продажи | ⏳ Not Started | 0 | 55 | ░░░░░░░░░░ 0% |
@@ -78,8 +78,12 @@
 
 #### 1.3 Backend: API (0/16 hours)
 
-- [ ] **1.3.1** API: Банки и ставки - GET /api/v1/banks (0/6h)
-  - **Status:** ⏳ Not Started
+- [x] **1.3.1** API: Банки и ставки - GET /api/v1/banks (6/6h)
+  - **Status:** 🎉 Completed (Session 004)
+  - Эндпоинт работает: https://lead-calculator.ru/api/v1/banks
+  - Аутентификация по API ключу
+  - Кеширование 1 час
+  - Тестовый ключ: lc_TDqtRD03LrYo55LgjNi7lxihB1gtJFC8NcQigqoO
   
 - [ ] **1.3.2** API: Расчёт ипотеки - POST /api/v1/calculate (0/4h)
   - **Status:** ⏳ Not Started
